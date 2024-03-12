@@ -1,0 +1,9 @@
+Example.rar
+Job.sln
+archive/
+git_education.rar
+.vscode/
+
+
+**/*.csproj
+**/**/obj
